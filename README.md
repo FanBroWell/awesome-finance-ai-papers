@@ -86,6 +86,8 @@ The decision making models are similar to that in Portfolio Optimization.
 - StockFormer: Learning Hybrid Trading Machines with Predictive Coding, *IJCAI'23* ([Paper](https://www.ijcai.org/proceedings/2023/0530.pdf))
 - A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist, *KDD'24* ([Paper](https://arxiv.org/pdf/2402.18485))
 - Automate Strategy Finding with LLM in Quant investment, *ArXiv'24* ([Paper](https://arxiv.org/pdf/2409.06289))
+- CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets, *ICDM'26* ([Paper](https://arxiv.org/abs/2609.14205), [Code](https://github.com/FanBroWell/CAST))
+
 
 ## Knowledge Retrieval and Augmentation 
 This is a loosely categorised task that involved a combination of (1) Information Retrieval (2) Data Augmentation (3) Data Labelling (4) Prompt Engineering (5) Simulation (6) Others
